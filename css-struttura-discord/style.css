@@ -60,39 +60,19 @@ ul{
     justify-content: end;
 }
 
-/* 
-footer {
-    padding: 10px;
-    background-color: cadetblue;
-}
 
-.footer-content {
-    padding: 10px;
-    background-color: darkseagreen;
-}
-
-main {
-    padding: 10px;
-    background-color: black;
-}
 
 .main-content {
-    display: flex;
-    justify-content: space-between;
-    background-color: gray;
+    background-color: #0c258b;
+    width: 100%;
+    padding: 2%;
 }
 
-.colsx {
-    height: 120px;
-    background-color: aquamarine;
-    flex-grow: 2;
-    margin: 10px;
+.sub{
+    background-color: #ed82ee;
+    padding: 10%;
+    width: 40%;
+    margin: 0 auto;
+    border: 3px dotted black;
 }
 
-.coldx,
-.colssx {
-    background-color: aqua;
-    height: 70px;
-    margin: 10px;
-    flex-grow: 1;
-} */
