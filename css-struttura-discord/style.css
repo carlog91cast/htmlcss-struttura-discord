@@ -181,7 +181,7 @@ ul {
     display: flex;
 }
 
-.colours-content{
+.colours-content {
     width: 100%;
     height: 100%;
     display: flex;
@@ -208,4 +208,40 @@ ul {
     height: 100%;
     margin: 0 auto;
     border: 2px dotted white;
+}
+
+hr {
+    border: 1px solid #d3d3d3;
+}
+
+footer {
+    width: 100%;
+    padding-top: 30px;
+    background-color: #23272a;
+}
+.footer-content {
+    padding: 30px;
+    padding-left: 0;
+    padding-right: 0;
+    background-color: #4db3ab;
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.log{
+    background-color: lightgray;
+    display: flex;
+    display: inline-block;
+    flex-grow: 1;
+}
+
+.button{
+    color: lightgray;
+    display: flex;
+    flex-grow: 3;
+    justify-content: end;
+}
+input{
+    padding: 5px;
 }
