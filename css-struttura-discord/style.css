@@ -38,7 +38,7 @@ li a {
     padding: 0px 10px;
 }
 
-ul{
+ul {
     display: flex;
     justify-content: center;
 
@@ -68,7 +68,7 @@ ul{
     padding: 2%;
 }
 
-.sub{
+.sub {
     background-color: #ed82ee;
     padding: 10%;
     width: 40%;
@@ -82,10 +82,9 @@ ul{
     width: 100%;
     padding: 2% 20%;
     display: flex;
-    margin: ;
 }
 
-.skysub{
+.skysub {
     background-color: #1f8ffb;
     padding: 20%;
     width: 70%;
@@ -94,7 +93,7 @@ ul{
     flex-grow: 15;
 }
 
-.rosesub{
+.rosesub {
     background-color: #f6bfca;
     padding: 20%;
     width: 30%;
@@ -110,10 +109,9 @@ ul{
     width: 100%;
     padding: 2% 20%;
     display: flex;
-    margin: ;
 }
 
-.skysub{
+.skysub {
     background-color: #1f8ffb;
     padding: 20%;
     width: 70%;
@@ -122,7 +120,7 @@ ul{
     flex-grow: 15;
 }
 
-.rosesub{
+.rosesub {
     background-color: #f6bfca;
     padding: 20%;
     width: 30%;
@@ -131,16 +129,15 @@ ul{
     flex-grow: 1;
 }
 
- /* terzo flex (celeste/rosa) */
+/* terzo flex (celeste/rosa) */
 
 .skyrose {
     width: 100%;
     padding: 2% 20%;
     display: flex;
-    margin: ;
 }
 
-.skysub{
+.skysub {
     background-color: #1f8ffb;
     padding: 20%;
     width: 70%;
@@ -149,7 +146,7 @@ ul{
     flex-grow: 15;
 }
 
-.rosesub{
+.rosesub {
     background-color: #f6bfca;
     padding: 20%;
     width: 30%;
@@ -158,4 +155,18 @@ ul{
     flex-grow: 1;
 }
 
+/* greenscreen */
 
+.screen {
+    background-color: #d3d3d3;
+    width: 100%;
+    padding: 2% 20%;
+    
+}
+
+.green {
+    background-color: #418c24;
+    padding: 35%;
+    margin: 0 auto;
+    border: 2px dotted black;
+}
